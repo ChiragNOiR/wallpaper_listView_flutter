@@ -1,0 +1,6 @@
+import 'package:build_6_wallpaper_app/widget/app_widget.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
